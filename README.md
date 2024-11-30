@@ -42,4 +42,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-juliano-antunes)](https://www.linkedin.com/in/jose-juliano-antunes)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jjlopesant@gmail.com)](mailto:jjlopesant@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/#inbox)](mailto:https://mail.google.com/mail/u/0/#inbox)
